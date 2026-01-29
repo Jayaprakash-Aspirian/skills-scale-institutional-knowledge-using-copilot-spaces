@@ -209,6 +209,7 @@ We track key quality indicators:
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning and evolving
 - [Risk Management & Communication](octoacme-risks-and-communication.md) - Managing risks and stakeholders
 - [Roles and Personas](octoacme-roles-and-personas.md) - Team roles and responsibilities
+- [Organizational Activities](octoacme-organizational-activities.md) - Employee clubs and engagement activities
 
 ## Contributing to This Documentation
 
